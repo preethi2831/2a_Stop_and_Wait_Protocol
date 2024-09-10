@@ -47,7 +47,8 @@ CLIENT  :
 
 SERVER :
 
-![Screenshot 2024-09-09 221302](https://github.com/user-attachments/assets/94dd0644-6bf1-405b-bb98-4a6b03029494)
+![Screenshot 2024-09-09 221302](https://github.com/user-attachments/assets/fd499f7a-5b85-47b6-8f6f-50ded4a26673)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
